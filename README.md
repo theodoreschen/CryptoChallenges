@@ -1,7 +1,7 @@
 # CryptoChallenges
 
 I've decided to catalog (i.e. show) my work using Jupyter notebooks. Notebook
-files are simply HTML files and should be viewable in GitHub. I'm using
+files are simply JSON files that GitHub knows how to render. I'm using
 Python 3.8.2 on Windows, but nothing in the notebooks is platform specific
 and should be platform agnostic. That said, I make extensive use of f-strings,
 so Python 3.6+ is required.
